@@ -4,6 +4,10 @@ Welcome to Mother Earth Website - Interactive Webpage repository!  This project 
 ## Project Overview
 This project involves creating an interactive webpage that provides information about Earth, some interesting facts, and a visual representation through images and videos. The webpage is styled with CSS and structured using HTML.
 
+![Website Screenshot](image/Earth_Webpage_1.png)
+![Website Screenshot](image/Earth_Webpage_2.png)
+
+
 ## Project Structure
 my_website/ ├── index_earth.html ├── css/ │ └── styles.css ├── images/ │ └── earth.jpg └── README.md
 
