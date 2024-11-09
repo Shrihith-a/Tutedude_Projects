@@ -23,7 +23,7 @@ my_website/ ├── index_earth.html ├── css/ │ └── styles.css �
 - **External Link**: Provides a link for more information about space.
 
 # Usage 
-1. **Clone the Repository**: ```bash git clone https://github.com/yourusername/your-repo-name.git ```
+1. **Clone the Repository**: ```bash git clone https://github.com/Shrihith-a/Mother-Earth-Website.git ```
 2. **Navigate to the Project Directory**: ```bash cd my_website ```
 3. **Open index.html in Your Browser**: - Simply open the `index.html` file in any web browser to view the interactive webpage.
 4. 
