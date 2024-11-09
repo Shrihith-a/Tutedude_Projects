@@ -26,7 +26,7 @@ my_website/ ├── index_earth.html ├── css/ │ └── styles.css �
 1. **Clone the Repository**: ```bash git clone https://github.com/Shrihith-a/Mother-Earth-Website.git ```
 2. **Navigate to the Project Directory**: ```bash cd my_website ```
 3. **Open index.html in Your Browser**: - Simply open the `index.html` file in any web browser to view the interactive webpage.
-4. 
+   
 ## Technologies Used 
 - **HTML**: For structuring the webpage.
 - **CSS**: For styling the webpage elements and ensuring the content is centered and justified.
