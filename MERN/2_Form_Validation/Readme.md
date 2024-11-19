@@ -24,4 +24,13 @@ This project is a simple and interactive form validation system built using HTML
 
 ## Project Structure
 The project is organized into three separate files for better maintainability:
-├── index.html├── styles.css└── scripts.js
+
+.
+├── images
+│   └── website.png
+├── css
+│   └── styles.css
+├── JS
+│   └── scripts.js
+├── index.html
+└── README.md
