@@ -1,0 +1,79 @@
+/* Basic styles for the body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 130%;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Styles for the form container */
+.wrapper {
+    width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+}
+
+/* Styles for form elements */
+.formelement {
+    margin-bottom: 20px;
+}
+
+/* Label styles */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Input and textarea styles */
+input, textarea {
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+/* Submit button styles */
+#submitbutton {
+    width: 100%;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for submit button */
+#submitbutton:hover {
+    background-color: #45a049;
+}
+
+/* Styles for error messages */
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+/* Styles for success messages */
+.success {
+    color: green;
+    font-size: 16px;
+    margin-top: 10px;
+}
